@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Tc3 Running]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-11-20T14:19:20 IST" name="Default suite" finished-at="2023-11-20T14:19:20 IST" duration-ms="54">
+    <groups>
+    </groups>
+    <test started-at="2023-11-20T14:19:20 IST" name="Default test" finished-at="2023-11-20T14:19:20 IST" duration-ms="54">
+      <class name="TestCases.Tc3Test">
+        <test-method signature="m3()[pri:0, instance:TestCases.Tc3Test@56cdfb3b]" started-at="2023-11-20T14:19:20 IST" name="m3" finished-at="2023-11-20T14:19:20 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Tc3 Running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+      </class> <!-- TestCases.Tc3Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
